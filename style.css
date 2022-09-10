@@ -11,8 +11,14 @@ body {
 }
 
 .clickStyle {
-  display: inline;
+  display: inline-block;
   cursor: pointer;
   border: solid;
   border-radius: 8px;
+  font-size: 22px;
+  margin-left: 10px;
+}
+
+.textbox {
+  width: 250px;
 }
